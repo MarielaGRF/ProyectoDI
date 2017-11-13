@@ -55,7 +55,7 @@ include("aside.php");
                             <div class="tab-content">
                                 <div class="tab-pane active" id="home-b1">
                                     <div class="row">
-                                        <div class="col-md-4">
+                                        <div class="col-md-12">
                                             <!-- Personal-Information -->
                                             <div class="panel panel-default panel-fill">
                                                 <div class="panel-heading">
